@@ -1,0 +1,10 @@
+Course: CSE 101 - Computer Science Principles
+Professor: Kevin McDonnell
+  Section Time: M W 9:30am - 10:50am - Frey Hall 104
+  Section Time: M W 2:00pm - 3:20pm - Computer Science Bldg. 2114
+  Section Time: M W 3:30pm - 4:50pm - Computer Science Bldg. 2114
+  Section Time: M W 5:00pm - 6:20pm - Computer Science Bldg. 2114
+  Section Time: T Th 12:30pm - 1:50pm - Computer Science Bldg. 2114
+  Section Time: T Th 2:00pm - 3:20pm - Computer Science Bldg. 2114
+  Section Time: T Th 8:00am - 9:20am - Computer Science Bldg. 2114
+  Section Time: T Th 3:30pm - 4:50pm - Computer Science Bldg. 2114

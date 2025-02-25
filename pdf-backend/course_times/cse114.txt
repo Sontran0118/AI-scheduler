@@ -1,0 +1,19 @@
+Course: CSE 114 - Intro to Object-Oriented Prog
+
+Professor: Tony Mione
+  Section Time: M W 2:00pm - 3:20pm
+  Section Time: T Th 2:00pm - 3:20pm
+
+Professor: Paul Fodor
+  Section Time: M W 2:00pm - 3:20pm - New Computer Science Bldg 120
+  Section Time: T Th 8:00am - 9:20am - Computer Science Bldg. 2129
+  Section Time: T Th 9:30am - 10:50am - Computer Science Bldg. 2129
+  Section Time: T Th 11:00am - 12:20pm - Computer Science Bldg. 2129
+  Section Time: T Th 12:30pm - 1:50pm - Computer Science Bldg. 2129
+
+Professor: Praveen Tripathi
+  Section Time: T Th 12:30pm - 1:50pm - Light Engineering 102
+  Section Time: M W 8:00am - 9:20am - Computer Science Bldg. 2129
+  Section Time: M W 9:30am - 10:50am - Computer Science Bldg. 2129
+  Section Time: M W 11:00am - 12:20pm - Computer Science Bldg. 2129
+  Section Time: M W 2:00pm - 3:20pm - Computer Science Bldg. 2129

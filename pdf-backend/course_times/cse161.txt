@@ -1,0 +1,3 @@
+Course: Computer Science 160 - Comp Sci A: Honors
+Professor: Paul Fodor
+  Section Time: M W 9:30am - 10:50am - Computer Science Bldg. 2120

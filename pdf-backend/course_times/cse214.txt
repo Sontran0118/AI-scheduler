@@ -1,0 +1,27 @@
+Course: CSE 214 - Data Structures
+
+Professor: Ahmad Esmaili
+
+Section Time: T Th 8:00am - 9:20am - Engineering Bldg. 145
+
+Section Time: T Th 8:00am - 9:20am - ONLINE ONLINE
+
+Section Time: M 9:30am - 10:25am - Computer Science Bldg. 2114
+
+Section Time: Th 11:00am - 11:55am - Computer Science Bldg. 2114
+
+Section Time: M 11:00am - 11:55am - Computer Science Bldg. 2114
+
+Section Time: Th 9:30am - 10:25am - Computer Science Bldg. 2114
+
+Professor: Pramod Ganapathi
+
+Section Time: M W 9:30am - 10:50am - New Computer Science Bldg 120
+
+Section Time: T 9:30am - 10:25am - Computer Science Bldg. 2114
+
+Section Time: Th 8:00am - 8:55am - Computer Science Bldg. 2311
+
+Section Time: T 11:00am - 11:55am - Computer Science Bldg. 2114
+
+Section Time: W 11:00am - 11:55am - Computer Science Bldg. 2114

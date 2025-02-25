@@ -1,0 +1,74 @@
+# COURSES
+CSE114|Introduction to Object-Oriented Programming|3
+CSE214|Data Structures|3
+CSE215|Foundations of Computer Science|3
+CSE150|Foundations of Computer Science: Honors|3
+CSE216|Programming Abstractions|3
+CSE220|Systems Fundamentals I|3
+CSE303|Introduction to the Theory of Computation|3
+CSE350|Theory of Computation: Honors|3
+CSE310|Computer Networks|3
+CSE316|Fundamentals of Software Development|3
+CSE320|Systems Fundamentals II|3
+CSE373|Analysis of Algorithms|3
+CSE385|Analysis of Algorithms: Honors|3
+CSE416|Software Engineering|3
+CSE312|Social, Legal, and Ethical Issues in Computing|3
+CSE300|Technical Communications|3
+AMS151|Applied Calculus I|3
+AMS161|Applied Calculus II|3
+MAT211|Introduction to Linear Algebra|3
+AMS210|Applied Linear Algebra|3
+AMS301|Finite Mathematical Structures|3
+AMS310|Survey of Probability and Statistics|3
+AMS311|Probability Theory|3
+
+# REQUIREMENTS
+REQ1|Major|Bachelor of Science in Computer Science requires ~80 credits.
+REQ2|Minor|Minor in Computer Science requires selected core courses.
+REQ3|Specialization|Computer Science students can choose a specialization.
+
+# SPECIALIZATIONS
+SP1|Artificial Intelligence and Data Science|Focuses on AI, machine learning, and big data.
+SP2|Human-Computer Interaction|Covers usability, UX design, and accessibility.
+SP3|Game Programming|Specializes in game development and interactive media.
+SP4|Security and Privacy|Focuses on cybersecurity, encryption, and secure systems.
+SP5|Systems Software Development|Covers OS, compilers, and backend systems.
+
+# COURSE_REQUIREMENTS
+CSE114|REQ1
+CSE214|REQ1
+CSE215|REQ1
+CSE150|REQ1
+CSE216|REQ1
+CSE220|REQ1
+CSE303|REQ1
+CSE350|REQ1
+CSE310|REQ1
+CSE316|REQ1
+CSE320|REQ1
+CSE373|REQ1
+CSE385|REQ1
+CSE416|REQ1
+CSE312|REQ1
+CSE300|REQ1
+AMS151|REQ1
+AMS161|REQ1
+MAT211|REQ1
+AMS210|REQ1
+AMS301|REQ1
+AMS310|REQ1
+AMS311|REQ1
+
+# SPECIALIZATION_COURSES
+SP1|CSE373
+SP1|CSE416
+SP1|CSE303
+SP2|CSE312
+SP2|CSE316
+SP3|CSE214
+SP3|CSE373
+SP4|CSE312
+SP4|CSE320
+SP5|CSE220
+SP5|CSE320
